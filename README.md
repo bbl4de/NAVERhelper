@@ -2,7 +2,7 @@
 
 [Open NAVERhelper](https://bbl4de.github.io/NAVERhelper/)
 
-Open a Google Maps place as a pin in NAVER Maps. Install the iPhone Shortcut from the website, then use Google Maps → Share → Open in NAVER. Reinstall the Shortcut if you previously used another NAVERhelper address.
+Open a Google Maps place as a pin in NAVER Maps. Install the map-icon iPhone Shortcut from the website, then use Google Maps → Share → Open in NAVER 2. Remove any older phone-icon copy so you select the updated Shortcut.
 
 This repository contains the public website files. Conversion happens in your browser. The Shortcut expands short Google Maps links on your device and passes the result in the page URL fragment. The page does not save a location history or use analytics.
 
